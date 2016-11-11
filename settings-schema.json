@@ -1,0 +1,11 @@
+{
+  "refreshInterval":
+  { "type": "spinbutton"
+  , "default": 3600
+  , "min": 60
+  , "max": 7200
+  , "units": "seconds"
+  , "step": 100
+  , "description": "Update interval"
+  }
+}

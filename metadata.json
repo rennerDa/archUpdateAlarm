@@ -1,0 +1,8 @@
+{
+    "description": "Show Arch Updates",
+    "max-instances": "1",
+    "dangerous": false,
+    "uuid": "updateAlarm@eichel65.de",
+    "name": "Arch Update Alarm",
+    "version": "1.0.0"
+}
