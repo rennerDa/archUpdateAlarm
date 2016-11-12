@@ -19,7 +19,7 @@ const Soup = imports.gi.Soup
 const Main = imports.ui.main;
 const MessageTray = imports.ui.messageTray;
 
-const UUID = "updateAlarm@eichel65.de"
+const UUID = "archUpdateAlarm"
 
 // Settings keys
 //----------------------------------
